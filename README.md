@@ -1,4 +1,5 @@
 # Autonomous-Trading-Agent-using-Deep-Q-Learning-and-Transformer-Networks
+# https://www.youtube.com/watch?v=Rc3A5W88oYU
 
 Our repository consists of 3 python notebooks and csv files.
 
