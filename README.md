@@ -14,4 +14,4 @@ Python Notebooks:
     1. StockPredictionTransformer_Multiple - Code for Transformer Netwrok trained on multiple stocks and generates multiple future stock prices to be fed into the Deep-Q Network. <br>
     2. CNN+Double_DQN - This contains code for the Deep Reinforcement Learning Agent which performs actions on the generated stock prices and its incurred profit.
 
-<img src="/docs/logo.png" alt="My cool logo"/>
+<img src="/DQN.png" alt="DQNetwork"/>
