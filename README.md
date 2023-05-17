@@ -15,3 +15,4 @@ Python Notebooks:
     2. DQNTrading - This folder contains code for the Deep Reinforcement Learning Agent trained and tested on JPMorgan's stock integrated trading signal reward shaping. 
 
 <img src="/DQN.png" alt="DQNetwork"/>
+<img src="/demo.png" alt="Generated Trends"/>
