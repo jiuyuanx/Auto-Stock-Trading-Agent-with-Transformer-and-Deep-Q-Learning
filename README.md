@@ -1,5 +1,5 @@
 # Autonomous-Trading-Agent-using-Deep-Q-Learning-and-Transformer-Networks
-# https://www.youtube.com/watch?v=Rc3A5W88oYU
+# https://www.youtube.com/watch?v=Rc3A5W88oYU<br>
 
 Python Notebooks:
     1. PrivateEquityPrediction_TeacherForcingDecoder - Code for Transformer Netwrok trained on large dataset of stocks from private equity and generates future trends using partial teacher forcing Decoder. <br>
